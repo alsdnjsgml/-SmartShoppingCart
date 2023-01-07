@@ -4,7 +4,7 @@
 
 구글 문서 : https://docs.google.com/document/d/1VxIZGVW3FDr_2naA1KJ4MUqLSLyG_FLVQT3JIoEO3Ek/edit?usp=sharing
 
-노션 : https://nine-grade-d65.notion.site/F4-e4e96d710d534df786abf46f9c71bba5
+노션 : https://www.notion.so/0b0b64c1abb54e89af928edc00de7156
 
 피그마 : https://www.figma.com/files/team/1174560641108414146
 
